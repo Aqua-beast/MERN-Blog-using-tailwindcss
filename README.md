@@ -1,4 +1,4 @@
 MERN Blog
 
-Client -> (vite to install react and tailwindcss)
+Client -> (vite to install react )
 Server -> NodeJs
